@@ -1,1 +1,4 @@
-# Banking-System-C-programming
+#### Goals
+
+#### How to use it
+* 
